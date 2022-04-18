@@ -16,7 +16,7 @@ public class api {
 		String n ;
 		int b;
 		int c;
-		
+		int ad;
 		while(true) {
 			System.out.println("입력하세요");
 			a =  sc.nextInt();
